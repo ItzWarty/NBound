@@ -1,0 +1,10 @@
+C:\my-repositories\NBound\game-server\bin\Debug\maps\map01.bmp
+C:\my-repositories\NBound\game-server\bin\Debug\game-server.exe
+C:\my-repositories\NBound\game-server\bin\Debug\game-server.pdb
+C:\my-repositories\NBound\game-server\obj\Debug\game-server.csprojResolveAssemblyReference.cache
+C:\my-repositories\NBound\game-server\obj\Debug\game-server.exe
+C:\my-repositories\NBound\game-server\obj\Debug\game-server.pdb
+C:\my-repositories\NBound\game-server\bin\Debug\ItzWarty.Commons.dll
+C:\my-repositories\NBound\game-server\obj\Debug\Dargon.NBound.MapStencilDisplay.resources
+C:\my-repositories\NBound\game-server\obj\Debug\game-server.csproj.GenerateResource.Cache
+C:\my-repositories\NBound\game-server\bin\Debug\maps\map02.bmp
