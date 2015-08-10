@@ -8,3 +8,5 @@ C:\my-repositories\NBound\game-server\bin\Debug\ItzWarty.Commons.dll
 C:\my-repositories\NBound\game-server\obj\Debug\Dargon.NBound.MapStencilDisplay.resources
 C:\my-repositories\NBound\game-server\obj\Debug\game-server.csproj.GenerateResource.Cache
 C:\my-repositories\NBound\game-server\bin\Debug\maps\map02.bmp
+C:\my-repositories\NBound\game-server\bin\Debug\Dargon.NBound.GameServer.Impl.dll
+C:\my-repositories\NBound\game-server\bin\Debug\Dargon.NBound.GameServer.Impl.pdb

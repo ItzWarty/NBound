@@ -1,0 +1,6 @@
+C:\my-repositories\NBound\Dargon.NBound.GameServer.Impl\bin\Debug\Dargon.NBound.GameServer.Impl.dll
+C:\my-repositories\NBound\Dargon.NBound.GameServer.Impl\bin\Debug\Dargon.NBound.GameServer.Impl.pdb
+C:\my-repositories\NBound\Dargon.NBound.GameServer.Impl\bin\Debug\ItzWarty.Commons.dll
+C:\my-repositories\NBound\Dargon.NBound.GameServer.Impl\obj\Debug\Dargon.NBound.GameServer.Impl.csprojResolveAssemblyReference.cache
+C:\my-repositories\NBound\Dargon.NBound.GameServer.Impl\obj\Debug\Dargon.NBound.GameServer.Impl.dll
+C:\my-repositories\NBound\Dargon.NBound.GameServer.Impl\obj\Debug\Dargon.NBound.GameServer.Impl.pdb

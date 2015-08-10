@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Dargon.NBound.GameServer.Maps;
 
 namespace Dargon.NBound {
    public class Program {
